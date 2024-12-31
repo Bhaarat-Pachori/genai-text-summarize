@@ -1,0 +1,8 @@
+langchain-groq
+langchain
+langchain-groq
+python-dotenv
+langchain_community
+PyMuPDF
+python-dotenv
+pypdf
